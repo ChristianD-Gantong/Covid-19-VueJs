@@ -12,7 +12,7 @@
 body{
 background: linear-gradient(178.76deg, #6FC57D 0.42%, #5DA869 99.57%);
 margin: 0;
-height: 2500px;
+height: 3250px;
 }
 </style>
 

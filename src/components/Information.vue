@@ -5,6 +5,7 @@
         <p class="p2">{{prag2}}</p>
         <p class="p3">{{prag3}}</p>
         <p class="p4">{{prag4}}</p>
+
     </div>
 </template>
 
