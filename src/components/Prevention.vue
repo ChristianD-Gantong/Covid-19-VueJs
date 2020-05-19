@@ -61,7 +61,7 @@ export default {
         font-weight: 200;
         font-size: 3.8em;
         line-height: 1.5em;
-        color: #81F6CC;
+        color: #FFFFFF;
     }
     .recDesign{
         z-index: -2;
@@ -96,7 +96,7 @@ export default {
     font-weight: 300;
     font-size: 3em;
     line-height: 1.5em;
-    color: #81F6CC;
+    color: #FFFFFF;
     }
     .descript{
         color: #146A97;
